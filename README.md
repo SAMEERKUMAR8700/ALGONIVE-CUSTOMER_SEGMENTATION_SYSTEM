@@ -58,4 +58,4 @@ python customer_segmentation.py
 
 ---
 
-👨‍💻 Developed by: *Your Name*
+👨‍💻 Developed by: *Sameer Kumar*
