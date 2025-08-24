@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+.DS_Store
+.env
+.ipynb_checkpoints
+segmented_retail_sales.csv
